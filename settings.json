@@ -1,0 +1,22 @@
+{
+  "debug.onTaskErrors": "debugAnyway",
+  "explorer.confirmDelete": false,
+  "window.confirmSaveUntitledWorkspace": false,
+  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'Fira Code', 'JetBrains Mono', Consolas, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.minimap.enabled": false,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.editor.showTabs": "none", 
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "window.menuBarVisibility": "toggle",
+  "editor.glyphMargin": false, 
+  "editor.foldEndingControls": "never",
+  "editor.showFoldingControls": "never",
+  "editor.lineNumbers": "relative"
+}
