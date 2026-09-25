@@ -9,14 +9,23 @@
   "editor.fontSize": 14,
   "editor.lineHeight": 22,
   "editor.minimap.enabled": false,
-  "editor.cursorBlinking": "expand",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block",
   "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+
   "workbench.editor.showTabs": "none", 
+  "workbench.statusBar.visible": false,
   "breadcrumbs.enabled": false,
   "workbench.activityBar.location": "hidden",
   "window.menuBarVisibility": "toggle",
-  "editor.glyphMargin": false, 
+  "editor.glyphMargin": false,
   "editor.foldEndingControls": "never",
   "editor.showFoldingControls": "never",
-  "editor.lineNumbers": "relative"
+  "editor.lineNumbers": "relative",
+
+  "editor.suggest.showIcons": false,
+  "editor.inlayHints.enabled": "off",
+  "window.commandCenter": false,
+  "security.workspace.trust.untrustedFiles": "newWindow"
 }
